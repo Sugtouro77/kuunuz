@@ -1,0 +1,835 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    border: none;
+    background: rgb(212, 210, 210);
+    display: flex;
+    align-items:center ;
+    
+}
+.navbar{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+
+}
+li:hover{
+    color: blue;
+
+}
+.logo{
+    width: 180px;
+    height: 100%;
+    
+    background: url("./_118657023_07e2a4f9-13a2-4cc1-924c-7868c4db08d8.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ul{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+}
+.but{
+       font-size:;
+       background: blue;
+       border: none;
+       width: 120px;
+       height: 100%;
+       color: white;
+       
+}
+.new{
+    width: 70%;
+    height: 300px;
+    display: flex;
+    position: relative;
+    
+    
+}
+.b35{
+    width: 50%;
+    height: 100%;
+    background: url("./kunuza.jpg");
+    background-size: cover;
+}
+.i35{
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    display: flex;
+}
+body{
+    overflow-x: hidden;
+    background: rgb(216, 213, 213);
+}
+.newu{
+    width: 30%;
+    height: 400px;
+   
+}
+
+.body{
+    display: flex;
+    width: auto;
+    height: auto;
+}
+.q{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.w{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.e{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.r{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.t{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.y{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.u{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.hh2{
+    display: none;
+}
+.i{
+    width: 100%;
+    height: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.sds{
+    font-size: 25px;
+    position: relative;
+    bottom: 18px;
+    left: 105px;
+}
+.battn{
+    width: 300px;
+    height: 50px;
+    border: none;
+    background: gray;
+    border-left: 1px solid blue;
+    border-radius: 20px;
+    
+}
+.fa-solid fa-calendar-days{
+     top: 10px; font-size:10px;color: #707275;position: relative;top: 10px; left: 20px;
+ }
+.ty{
+    width: 470px;
+    height: 200px;
+    position: relative;
+    bottom: 30px;
+   
+}
+.tu{
+    width: 470px;
+    height: 200px;
+    position: relative;
+    bottom: 30px;
+    padding: 10px;
+}
+.tq{
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+}
+.tq h5{
+    font-size: 20px;
+}
+.tw h5{
+    font-size: 20px;
+}.te h5{
+    font-size: 20px;
+}.tr h5{
+    font-size: 20px;
+}
+.tw{
+    height: 100px;
+    position: relative;
+    top: px;
+    display:flex;
+}
+.te{
+    height: 100px;
+    position: relative;
+    top: px;
+    display:flex;
+}
+.tr{
+    height: 100px;
+    position: relative;
+    top: px;
+    display:flex;
+}
+.tla{
+    display: flex;
+    position: relative;
+    bottom: 70px;
+}
+.imgg{
+    width: 200px;
+    height: 100%;
+  
+    background: url("./kunuza.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.mt{
+    width: 70%;
+    height: 50px;
+    
+    position: relative;
+    bottom: 100px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.ddf{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    left: 600px;
+}
+
+.ikin{
+    width: 70%;
+    height: 400px;
+    position: relative;
+    top: -100px;
+    display: flex;
+}
+.bq{
+    width: 33%;
+    height: 100%;
+}
+.bw{
+    width: 33%;
+    height: 100%;
+}
+.be{
+    width: 33%;
+    height: 100%;
+}
+.q1{
+    width: 100%;
+    height: 50%;
+    background: url("qonun.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.q2{
+    width: 100%;
+    height: 50%;
+}    
+.q3{
+    width: 100%;
+    height: 50%;
+    background: url("qonun.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.q4{
+    width: 100%;
+    height: 50%;
+}
+.q5{
+    width: 100%;
+    height: 50%;
+    background: url("qonun.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.q6{
+    width: 100%;
+    height: 50%;
+   
+}
+
+.boximet{
+    width: 100%;
+    height: 500px;
+    border: hidden;
+    position: relative;
+    top: -100px;
+    display: flex;
+}
+.box1{
+    width: 1500px;
+    height: 100%;
+    border: hidden;
+}
+.a1{
+    width: 100%;
+    height: 60%;
+    border: hidden;
+    background: url("./qonun.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.a2{
+    width: 100%;
+    height: 40%;
+    border: hidden;
+}
+.box2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.s1{
+    width: 50%;
+    height: 50%;
+}
+.s2{
+    width: 50%;
+    height: 50%;
+}
+.s3{
+    width: 50%;
+    height: 50%;
+}
+.s4{
+    width: 50%;
+    height: 50%;
+}
+.wer{
+    width: 100%;
+    height: 130px;
+}
+.fimg{
+    width: 100%;
+    height: 50%;
+    background: url("./qonun.jpg");background-size: cover;
+    background-position: center;
+}
+.box3{
+    width: 100%;
+    height: 100%;
+  
+    display: flex;
+    position: relative;
+    top: -250px;
+}
+.kattabox{
+}
+.msi{
+   width: 100%;
+   height: 500px;
+   position: relative;
+   bottom: 100px;
+   display: flex;
+
+}
+.mox1{
+    width: 33%;
+    height: 100%;
+}
+.mox2{
+    width: 33%;
+    height: 100%;
+}
+.mox3{
+    width: 33%;
+    height: 100%;
+}
+
+.besh{
+    width: 100%;
+    height: 400px;
+    
+    position: relative;
+    top: -100px;
+    display: flex;
+    padding: 20px;
+}
+.bi{
+    width: 20%;
+    height: 100%;
+ 
+}
+.image{
+    width: 100%;
+    height: 50%;
+}
+.bio{
+    width: 20%;
+    height: 100%;
+   
+}
+.tasq{
+    width: 20%;
+    height: 100%;
+
+}
+.disk{
+    width: 100%;
+    height: 644px;
+
+}
+.qnav{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.bar{
+    position: relative;
+    left: 700px;
+}
+.man{
+    width: 100%;
+    height: 300px;
+  
+    display: flex;
+}
+.bman{
+    width: 50%;
+    height: 100%;
+
+}.kman{
+    width: 50%;
+    height: 100%;
+  
+}
+.bdiv{
+ 
+        width: 100%;
+        height: 300px;
+        display: flex;
+        position: relative;
+        bottom: 302px;
+}
+.ndiv{
+    width: 25%;
+    height: 100%;
+    margin:10px;
+}
+.adiv{
+    width: 25%;
+    height: 100%;
+        margin:10px;
+
+}
+.driv{
+    width: 25%;
+    height: 100%;
+        margin:10px;
+
+}
+.sdiv{
+    width: 25%;
+    height: 100%;
+        margin:10px;
+
+}
+.poco{
+    width: 100%;
+    height: 300px;
+    position: relative;
+    top: -300px;
+    background: blue;
+}
+.poconav{
+width: 100%;
+height: 50px;
+display: flex;
+align-items: center;
+
+}
+h1:hover{
+    color: blue;
+}
+h2:hover{
+    color: blue;
+}
+img:hover{
+    width: 110%;
+}ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+@media(max-witdh:777px){
+    .body{
+        display: block;
+    }
+}
+@media(max-width:400px){
+    .nav{
+        display: none;
+    }
+}
+@media(max-width:1060px){
+    .asad{
+        display: none;
+    }
+}
+@media(max-width:700px){
+    .lkj{
+        display: none;
+    }
+    .fa-solid fa-magnifying-glass{
+        display: none;
+    }
+}
+@media(max-width:1115px){
+    .body{
+        display: block;
+    }
+    .i35 h1{
+        font-size: 5px;
+        
+        position: relative;
+        right: 50px;
+    }
+    .i35 h6{
+        display: block;
+    }
+}
+@media(max-width:1115px) {
+    .q h6 h1 i {
+        font-size: 6px;
+        position: relative;
+        top: -200px;
+    }
+}
+@media(max-width:525){
+    .logo{
+        position: relative;
+        left: 100px;
+        display: none;
+    }
+}
+@media(max-width:995px){
+    .but{
+        width: 100px;
+    }
+}
+@media(max-width:985){
+    .q{
+        height: 1500px;
+    }
+    .w{
+        height: 150px;
+    }
+    .e{
+        height: 150px;
+    }
+    .r{
+        height: 150px;
+    }
+    .t{
+        height: 150px;
+    }
+}
+@media(max-width:1120px){
+    .muxar{
+        display: none
+    }
+}
+@media(max-width:876px){
+    
+}
+@media(max-width:875px){
+    .hhh{
+        display: none;
+    }
+}
+@media(max-width:1110px){
+    .q i {
+        display: none;
+
+    }
+}
+@media(max-width:635px){
+    .q h1 {
+        display: none;
+
+    }
+}
+@media(max-width:1110px){
+    .q h1 {
+        position: relative;
+        top: 5px;
+
+    }
+    .q i{
+        display: none;
+    }
+    .w i{
+        display: none;
+    }
+    .e i{
+        display: none;
+    }.r i{
+        display: none;
+    }.t i{
+        display: none;
+    }
+}
+
+@media(max-width:1115px){
+    .r{
+        display: none;
+    }   
+    .t{
+        display: none;
+    }   
+    .y{
+        display: none;
+    }    
+    .u{
+        display: none;
+    }    
+}
+@media(max-width:573px){
+   .q{
+    width: 200px;
+   }
+   .w{
+    width: 200px;
+   }
+   .e{
+    width: 200px;
+   }
+}
+@media(max-width:1115px){
+   .battn{
+    display: none;
+   }
+}
+@media(max-width:746px){
+    span{
+        display: none;
+    }
+}
+@media(max-width:987px){
+    .ikin{
+        flex-direction: column;
+    }
+ }
+ @media(max-width:987px){
+    .be{
+       display: none;
+    }
+ }
+ @media(max-width:992px){
+    .mt h1{
+       display: none;
+    }
+ }
+ @media(max-width:885px){
+    .q2 h1{
+       font-size: 20px;
+    }
+    .q4 h1{
+        font-size: 20px;
+
+    }
+ }
+ @media(max-width:680px){
+    .q2 h1{
+       font-size: 15px;
+    }
+    .q4 h1{
+        font-size: 15px;
+
+    }
+ }
+ @media(max-width:427px){
+    .q2 h1{
+       font-size: 13px;
+    }
+    .q4 h1{
+        font-size: 13px;
+
+    }
+ }
+ @media(max-width:379px){
+    .q2 h1{
+       font-size: 10px;
+        
+    }
+    .q4 h1{
+        font-size: 10px;
+
+    }
+ }
+ @media(max-width:549px){
+   .a2 span{
+    display: none;
+   }
+   
+ }
+ @media(max-width:595px){
+    .a2 h2{
+    font-size: 18px;
+    }
+    
+  }
+ 
+  @media(max-width:700px){
+    .box1{
+     display: none;
+    }
+    
+  }
+  @media(max-width:1107px){
+    .h2w{
+        display: none;
+    }
+    
+  }
+  @media(max-width:552px){
+    .h2q{
+        width: 50px;
+    }
+    
+  }
+  @media(max-width:527px){
+    .mox1 {
+        flex-direction: column;
+        position: relative;
+        top: 120px;
+
+       
+    }
+     .mox1 .h2q{
+       
+        font-size: 20px;
+    }
+    .mox2,.mox3{
+        display: none;
+    }
+    
+  }
+
+ 
+ @media(max-width:420px){
+    .mox1 img{
+        width: 300px;
+    }
+   }
+   @media(max-width:897px){
+    .bio h2{
+        font-size: 20px;
+    }
+    .bi h2{
+        font-size: 20px;
+    }
+    .tasq h2{
+        font-size: 20px;
+    }
+   }
+   @media(max-width:733px){
+    .bi h2{
+        font-size: 15px;
+    }
+    .tasq h2{
+        font-size: 15px;
+   }
+   .bio h2{
+    font-size: 15px;
+   }
+}
+@media(max-width:489px){
+    .bi{
+        width: 200px;
+    }
+    .tasq {
+        width: 200px;
+   }
+   .bio {
+   width: 200px;
+   }
+}
+@media(max-width:500px){
+   .man{
+    display:none;
+   }
+   .bdiv{
+    flex-direction: column;
+    position: relative;
+    top: -800px;
+   }
+   .poco{
+    position: relative;
+    top: 150px;
+   }
+   .ndiv{
+    width: 300px;
+   }
+   .adiv{
+    width: 300px;
+   }
+   .driv{
+    width: 300px;
+   }
+   .sdiv{
+    width: 300px;
+   }
+   .qnav h2 {
+    display: none;
+   }
+    .bq{
+    width: 100%;
+    
+    
+   }
+   .bw{
+    width: 100%;
+    
+   }
+   .q2{
+    
+   }
+}
